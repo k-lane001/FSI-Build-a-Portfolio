@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/gray_wood.jpg");
+}
+div {
+    background-color: #a9a9a9;
+    text-align: center;
+  }
+  h1 {color:crimson;
+        border-style: solid;
+        border-color: black;
+        background: -moz-linear-gradient(left, #FFD0CD 0%, #D0AAA7 50%, #9B7F7C 100%);
+        background: -webkit-linear-gradient(left, #FFD0CD 0%, #D0AAA7 50%, #9B7F7C 100%);
+        background: linear-gradient(to right, #FFD0CD 0%, #D0AAA7 50%, #9B7F7C 100%);
+        line-height: 2em;
+        font-size: 48pt;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow: #474747 3px 5px 2px, 2px 2px 2px rgba(220,20,60,0);
+  }
+  img {border-radius: 200px;
+  }
+  h3 {color:rgb(134, 37, 57);
+        font-size: 24pt;
+        font-style: oblique;
+        width: 200px;
+        border: 15px solid;
+        border-radius: 5px;
+        padding: 25px;
+        margin: 20px;       
+
+  }
+
+  #project-list {
+                font-family: cursive;
+                font-size: 24pt;
+            }
+    .pointer {cursor: pointer;}
